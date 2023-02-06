@@ -1,0 +1,12 @@
+
+
+    .main-title{
+        color: rgb(30, 255, 236);
+        font-style: normal;
+        text-align: center;
+    }
+    .content{
+        color: rgb(30, 255, 236);
+        margin: 12;
+        font-family: 'Courier New', Courier, monospace;
+    }
