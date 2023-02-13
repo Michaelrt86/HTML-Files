@@ -1,0 +1,17 @@
+.main-header{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    border-color: green;
+    border-style: groove;
+    border-bottom-width: 100;
+    background-color: aqua;
+}
+.second-line{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: green;
+    border-style: groove;
+    background-color: aqua;
+}
